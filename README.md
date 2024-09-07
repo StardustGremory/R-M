@@ -5,6 +5,8 @@
 ### data: capa de información base de datos o un servicio
 ### domain: capa de las reglas del negocio o casos de uso
 ### presentation: capa de vista y viewModel
+### Primer vista de character muestra el comsumo del servivio de characters
+### La vista de locations muestra datos que se almacenaron localmente con Realm
 
 # Se agregan capturas de pantalla
 
